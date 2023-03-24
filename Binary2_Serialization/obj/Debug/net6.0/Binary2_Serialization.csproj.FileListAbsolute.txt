@@ -1,0 +1,15 @@
+F:\c# program\Serialization\Binary2_Serialization\bin\Debug\net6.0\Binary2_Serialization.exe
+F:\c# program\Serialization\Binary2_Serialization\bin\Debug\net6.0\Binary2_Serialization.deps.json
+F:\c# program\Serialization\Binary2_Serialization\bin\Debug\net6.0\Binary2_Serialization.runtimeconfig.json
+F:\c# program\Serialization\Binary2_Serialization\bin\Debug\net6.0\Binary2_Serialization.dll
+F:\c# program\Serialization\Binary2_Serialization\bin\Debug\net6.0\Binary2_Serialization.pdb
+F:\c# program\Serialization\Binary2_Serialization\obj\Debug\net6.0\Binary2_Serialization.csproj.AssemblyReference.cache
+F:\c# program\Serialization\Binary2_Serialization\obj\Debug\net6.0\Binary2_Serialization.GeneratedMSBuildEditorConfig.editorconfig
+F:\c# program\Serialization\Binary2_Serialization\obj\Debug\net6.0\Binary2_Serialization.AssemblyInfoInputs.cache
+F:\c# program\Serialization\Binary2_Serialization\obj\Debug\net6.0\Binary2_Serialization.AssemblyInfo.cs
+F:\c# program\Serialization\Binary2_Serialization\obj\Debug\net6.0\Binary2_Serialization.csproj.CoreCompileInputs.cache
+F:\c# program\Serialization\Binary2_Serialization\obj\Debug\net6.0\Binary2_Serialization.dll
+F:\c# program\Serialization\Binary2_Serialization\obj\Debug\net6.0\refint\Binary2_Serialization.dll
+F:\c# program\Serialization\Binary2_Serialization\obj\Debug\net6.0\Binary2_Serialization.pdb
+F:\c# program\Serialization\Binary2_Serialization\obj\Debug\net6.0\Binary2_Serialization.genruntimeconfig.cache
+F:\c# program\Serialization\Binary2_Serialization\obj\Debug\net6.0\ref\Binary2_Serialization.dll

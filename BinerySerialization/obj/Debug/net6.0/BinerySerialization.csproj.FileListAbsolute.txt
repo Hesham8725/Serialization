@@ -1,0 +1,15 @@
+F:\c# program\Serialization\BinerySerialization\bin\Debug\net6.0\BinerySerialization.exe
+F:\c# program\Serialization\BinerySerialization\bin\Debug\net6.0\BinerySerialization.deps.json
+F:\c# program\Serialization\BinerySerialization\bin\Debug\net6.0\BinerySerialization.runtimeconfig.json
+F:\c# program\Serialization\BinerySerialization\bin\Debug\net6.0\BinerySerialization.dll
+F:\c# program\Serialization\BinerySerialization\bin\Debug\net6.0\BinerySerialization.pdb
+F:\c# program\Serialization\BinerySerialization\obj\Debug\net6.0\BinerySerialization.csproj.AssemblyReference.cache
+F:\c# program\Serialization\BinerySerialization\obj\Debug\net6.0\BinerySerialization.GeneratedMSBuildEditorConfig.editorconfig
+F:\c# program\Serialization\BinerySerialization\obj\Debug\net6.0\BinerySerialization.AssemblyInfoInputs.cache
+F:\c# program\Serialization\BinerySerialization\obj\Debug\net6.0\BinerySerialization.AssemblyInfo.cs
+F:\c# program\Serialization\BinerySerialization\obj\Debug\net6.0\BinerySerialization.csproj.CoreCompileInputs.cache
+F:\c# program\Serialization\BinerySerialization\obj\Debug\net6.0\BinerySerialization.dll
+F:\c# program\Serialization\BinerySerialization\obj\Debug\net6.0\refint\BinerySerialization.dll
+F:\c# program\Serialization\BinerySerialization\obj\Debug\net6.0\BinerySerialization.pdb
+F:\c# program\Serialization\BinerySerialization\obj\Debug\net6.0\BinerySerialization.genruntimeconfig.cache
+F:\c# program\Serialization\BinerySerialization\obj\Debug\net6.0\ref\BinerySerialization.dll
